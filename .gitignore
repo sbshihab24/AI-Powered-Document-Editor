@@ -1,0 +1,10 @@
+# Python virtual environment
+.ipynb_checkpoints/
+__pycache__/
+
+# Local sensitive files
+.env
+.streamlit/secrets.toml  # <-- IGNORE THIS!
+
+# Deployment build files
+.streamlit/

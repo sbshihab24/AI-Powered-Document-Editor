@@ -1,0 +1,5 @@
+# requirements.txt
+streamlit
+requests
+PyMuPDF  # This is the correct package name for 'fitz'
+python-dotenv # Optional, good practice for local testing
