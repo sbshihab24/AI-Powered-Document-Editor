@@ -1,4 +1,5 @@
-AI-Powered Document Editor
+#AI-Powered Document Editor
+
 An intelligent, AI-powered application built with Streamlit and the Gemini API that transforms complex text-editing instructions into precise, targeted replacements within uploaded PDF documents.
 
 🌟 Overview
