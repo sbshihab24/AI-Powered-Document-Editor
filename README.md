@@ -53,6 +53,7 @@ Clone the project repository from GitHub and navigate into it:
 ```bash
 git clone https://github.com/sbshihab24/AI-Powered-Document-Editor.git
 cd AI-Powered-Document-Editor
+
 ###  2. Set up the Environment
 # Create environment
 python -m venv venv
