@@ -70,7 +70,7 @@ streamlit run app.py
 
 ---
 
-## 💡 Usage Example
+### 💡 Usage Example
 
 1. **Upload PDF:** Use the file uploader in the sidebar (or main area) to select your target PDF document.  
 2. **Enter Instruction:** In the main text area, enter your editing command.  
@@ -83,7 +83,7 @@ streamlit run app.py
 
 ---
 
-## 🤝 Contributing
+### 🤝 Contributing
 
 Contributions are welcome!  
 If you have suggestions for improvements, feature requests, or bug reports, please **open an issue** or **submit a pull request**.
