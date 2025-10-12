@@ -8,3 +8,6 @@ __pycache__/
 
 # Deployment build files
 .streamlit/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore

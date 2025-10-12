@@ -68,10 +68,10 @@ pip install -r requirements.txt
 # 5. Run the Application
 
 streamlit run app.py
-```bash
----
+```
 
-### 💡 Usage Example
+
+##  💡 Usage Example
 
 1. **Upload PDF:** Use the file uploader in the sidebar (or main area) to select your target PDF document.  
 2. **Enter Instruction:** In the main text area, enter your editing command.  
