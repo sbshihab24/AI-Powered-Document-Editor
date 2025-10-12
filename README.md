@@ -43,19 +43,12 @@ Follow these steps to set up and run the **AI-Powered Document Editor** locally.
 
 ## ⚙️ Setup Instructions
 
-Follow these steps to set up and run the **AI-Powered Document Editor** locally.
-
----
-
-### 1. Clone the Repository
-Clone the project repository from GitHub and navigate into it:
-
 ```bash
+# 1. Clone the Repository
 git clone https://github.com/sbshihab24/AI-Powered-Document-Editor.git
 cd AI-Powered-Document-Editor
 
-###  2. Set up the Environment
-# Create environment
+# 2. Set up the Environment
 python -m venv venv
 
 # Activate on macOS/Linux
@@ -63,4 +56,15 @@ source venv/bin/activate
 
 # Activate on Windows (Command Prompt)
 venv\Scripts\activate.bat
+
+# 3. Install Dependencies
+pip install -r requirements.txt
+
+# 4. Configure API Key
+# Create file: .streamlit/secrets.toml
+# Add your Gemini API key inside:
+# GEMINI_API_KEY = "YOUR_API_KEY"
+
+# 5. Run the Application
+streamlit run app.py
 
